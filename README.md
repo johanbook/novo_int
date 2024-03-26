@@ -14,7 +14,9 @@ It serves as a starting point to our Technical interview.
 
 ## Assignments
 
-> Expected completion time: 1-2 hour
+> Minimal expected completion time: 2 hour
+
+> Note that you are not required to make any changes to the project or submit any code. You are only required to understand the project and note down improvements that can be made to the project. However **writing code to demonstrate your skill is a big plus and it shows your commitment for the position.**
 
 ### Getting started
 
@@ -24,7 +26,6 @@ Your task is to:
 - Play around with the project and understand how it works
 - Note down improvements that can be made to the project
 
-> Note that you are not required to make any changes to the project or submit any code. You are only required to understand the project and note down improvements that can be made to the project.
 
 ### Scaling the project
 
