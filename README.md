@@ -18,16 +18,12 @@ It serves as a starting point to our Technical interview.
 
 > Note that you are not required to make any changes to the project or submit any code. You are only required to understand the project and note down improvements that can be made to the project. However **writing code to demonstrate your skill is a big plus and it shows your commitment for the position.**
 
-### Getting started
-
-Your tasks is to:
-
 - [ ] Start the project and have both the frontend and backend running
 - [ ] Play around with the project and understand how it works
 - [ ] Note down improvements that can be made to the project: libraries, framework, etc.
 - [ ] Answer what are the 3 things that you would spend your time on to improve this project significantly?
 - [ ] Answer what are the other technologies that you would choose instead?
-- [ ] Complete the [Scaling the project](#scaling-the-project) section below
+- [ ] Complete the [Scaling the project](#scaling-the-project) section below (code is not mandatory)
 - [ ] (Optional): Implement the changes that you would like to make
 
 ### Scaling the project
