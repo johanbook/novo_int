@@ -20,12 +20,15 @@ It serves as a starting point to our Technical interview.
 
 ### Getting started
 
-Your task is to:
+Your tasks is to:
 
-- Start the project and have both the frontend and backend running
-- Play around with the project and understand how it works
-- Note down improvements that can be made to the project
-
+- [ ] Start the project and have both the frontend and backend running
+- [ ] Play around with the project and understand how it works
+- [ ] Note down improvements that can be made to the project: libraries, framework, etc.
+- [ ] Answer what are the 3 things that you would spend your time on to improve this project significantly?
+- [ ] Answer what are the other technologies that you would choose instead?
+- [ ] Complete the [Scaling the project](#scaling-the-project) section below
+- [ ] (Optional): Implement the changes that you would like to make
 
 ### Scaling the project
 
