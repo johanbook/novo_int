@@ -10,13 +10,19 @@ It serves as a starting point to our Technical interview.
 
 [Internal documentation](https://novoresume.atlassian.net/wiki/spaces/MAN/pages/2355429378/Test+case+description)
 
+## Instruction
+
 > Note: The interviewer clone this repository and run the project locally to verify if it works. The interviewer will provide the candidate with the URL to the project.
+
+Minimal expected completion time: 2 hour
+
+Note that you are not required to make any changes to the project or submit any code. You are only required to understand the project and note down improvements that can be made to the project. However **writing code to demonstrate your skill is a big plus and it shows your commitment for the position.**
 
 ## Assignments
 
-> Minimal expected completion time: 2 hour
+### Up and running
 
-> Note that you are not required to make any changes to the project or submit any code. You are only required to understand the project and note down improvements that can be made to the project. However **writing code to demonstrate your skill is a big plus and it shows your commitment for the position.**
+Please complete the tasks below:
 
 - [ ] Start the project and have both the frontend and backend running
 - [ ] Play around with the project and understand how it works
@@ -28,7 +34,7 @@ It serves as a starting point to our Technical interview.
 
 ### Scaling the project
 
-This is an artificial roadmap for the project. The items below are in a chronological order. You are required to provide a brief description of how you would go about implementing each item, assuming that you know the full roadmap.
+This is an artificial roadmap for the project. The items below are in a **chronological order**. You are required to provide a brief description of how you would go about implementing each item, assuming that you know the full roadmap.
 
 #### 1. Editing Documents
 
