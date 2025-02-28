@@ -10,6 +10,20 @@ It serves as a starting point to our Technical interview.
 
 [Internal documentation](https://novoresume.atlassian.net/wiki/spaces/MAN/pages/2355429378/Test+case+description)
 
+## API Implementations
+
+This project now includes two API implementations:
+
+1. **Express API (Original)**: The original implementation using Express.js
+   - Run with: `npm run dev` or `npm run server`
+
+2. **Fastify API (New)**: A more performant implementation using Fastify
+   - Run with: `npm run dev-fastify` or `npm run server-fastify`
+   - Documentation: See [FASTIFY_API.md](./FASTIFY_API.md)
+   - Migration Guide: See [MIGRATION_GUIDE.md](./MIGRATION_GUIDE.md)
+
+Both implementations provide the same API endpoints and functionality.
+
 ## Instruction
 
 > Note: The interviewer clone this repository and run the project locally to verify if it works. The interviewer will provide the candidate with the URL to the project.
