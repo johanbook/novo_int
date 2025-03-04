@@ -4,8 +4,6 @@ const bcrypt = require("bcryptjs");
 const jwt = require("jsonwebtoken");
 const { JWT_SECRET } = require("../../config");
 
-console.log("JWT_SECRET", JWT_SECRET);
-
 // Item Model:
 const User = require("../../models/User");
 
@@ -37,7 +35,7 @@ router.post("/", (req, res) => {
 				bcrypt.hash(newUser.password, salt, (err, hash) => {
 					if (err) throw err
 					newUser.password = hash;
-					console.log("HASHED Password", hash);
+
 					newUser.save()
 						.then(user => {
 
