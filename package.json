@@ -18,6 +18,11 @@
     "express": "^4.16.4",
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.5.7",
-    "nodemon": "^1.19.0"
+    "nodemon": "^1.19.0",
+    "pino": "^9.6.0",
+    "pino-http": "^10.4.0"
+  },
+  "devDependencies": {
+    "pino-pretty": "^13.0.0"
   }
 }
