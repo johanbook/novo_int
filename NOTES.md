@@ -80,8 +80,6 @@ expected usage? Use Kubernetes or can we get away with Docker compose?
 - Schema validation. There should be proper schema validation in API for
   security and scalability. Should cover things as string formats (email, uuid),
   max numbers etc.
-- Cache current user either in memory or in Redis to lower request timing and
-  database load
 - Add CI/CD pipeline.
 
 ## 3. Add Job Tracking
