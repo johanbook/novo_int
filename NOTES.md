@@ -84,11 +84,15 @@ expected usage? Use Kubernetes or can we get away with Docker compose?
 
 ## 3. Add Job Tracking
 
+Create design
+
 Update data model
 
 - Add job application entity with fields
   - Status ((Applied, Interview, Offer, Rejected, etc.))
   - List of attached documents
+
+Be able to create documents from template (or existing documents)
 
 I find the use case for this requirement a bit unclear:
 
